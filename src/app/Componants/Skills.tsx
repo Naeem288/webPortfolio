@@ -3,15 +3,15 @@ import {AiOutlineCheckSquare} from 'react-icons/ai'
 
 const Skills = () => {
   return (
-    <div id='skills'>
-        <section className="text-gray-600 body-font -mt-10">
+    <div id='skills' >
+        <section className="text-gray-600 body-font -mt-10 ">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
       <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">
         My Skills
       </h1>
     </div>
-    <div className="flex flex-wrap -m-4">
+    <div className="flex flex-wrap -m-4 ">
         {/* skill 1 */}
       <div className="p-4 md:w-1/3">
         <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">

@@ -4,6 +4,8 @@ import logo from "../../../public/assets/logo/logo.png";
 import Image from "next/image";
 import { AiOutlineCloudDownload } from "react-icons/ai";
 
+
+
 const Navbar = () => {
   return (
     <div className="z-50 top-0 sticky bg-white">
@@ -18,7 +20,7 @@ const Navbar = () => {
               alt="logo"
               className="w-[50px]"
             />
-            <p>
+            <p className="fontVariant">
               <b>Naeem Shehzad</b>
             </p>
           </Link>

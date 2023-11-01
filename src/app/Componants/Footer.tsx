@@ -32,7 +32,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <b className="hover:text-lg to-black">@nEeMu288</b>
+              <b className="hover:text-lg hover:text-black">@nEeMu288</b>
             </Link>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
